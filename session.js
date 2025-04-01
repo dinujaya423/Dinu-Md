@@ -25,7 +25,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "Your session id here",
+SESSION_ID: process.env.SESSION_ID || "SR-TECH&MbVAVbKL#pPIoMES6a3onBVUshFp8JX6kiLdXs_9VyKsPa6xS0oA",
 SUDO: process.env.SUDO || ["94740026280","94740026280"],
 PORT: process.env.PORT || "8000",
 FOOTER: process.env.FOOTER || "> Dinu-Md\n> Developed by Dinu\n> GitHub Repository: https://github.com/dinujaya423/SR-TECH-DINU\n🌟 Premium Version | Advanced Features | Secure & Reliable 🌟\n© 2025 𝚂𝚁_𝙳𝙸𝙽𝚄_𝙼𝙳. All rights reserved.",
